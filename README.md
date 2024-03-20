@@ -4,7 +4,7 @@
 
 👀 I’m interested in Data Science, Machine learning, and Software Development.
 
-🔧 Skills: Python, JavaScript, React, Node.js, HTML/CSS, Git, SQL, Docker.
+🔧 Skills: Python, C++, Java, Machine Learning, Deep Learning, SQL.
 
 📫 Reach me at divyanshun9@gmail.com.
 
